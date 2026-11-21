@@ -1,0 +1,6 @@
+{
+  "name": "Swati — Sassy AI Voice Companion",
+  "description": "A witty, charismatic live AI voice companion powered by real-time Gemini Live voice streaming and hands-free web launching.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
